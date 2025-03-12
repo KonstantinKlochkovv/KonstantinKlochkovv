@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=Hello+there!+%F0%9F%91%8B;Have+a+great+time+here+%F0%9F%92%9E%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=Hello+there!+%F0%9F%91%8B;Have+a+great+time+here+%F0%9F%92%9E%EF%B8%8F)](https://git.io/typing-svg)
 
 ###
 

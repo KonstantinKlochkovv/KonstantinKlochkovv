@@ -47,9 +47,3 @@
 <img src="https://raw.githubusercontent.com/konstantinklochkovv/konstantinklochkovv/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/konstantinklochkovv/count.svg?"  />
-</div>
-
-###
